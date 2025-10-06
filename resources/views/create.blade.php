@@ -2,7 +2,7 @@
 
 @section('mainContent')
 <style>
-    /* This cammand is used for the testing add-profile-page  */
+/* Hey this is Niranjan  */
     body, html {
         height: 85%;
         margin: 0;
