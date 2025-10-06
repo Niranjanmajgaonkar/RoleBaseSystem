@@ -2,6 +2,7 @@
 
 @section('mainContent')
 <style>
+/* try to create the conflict */
 /* Hey this is Niranjan  */
     body, html {
         height: 85%;
